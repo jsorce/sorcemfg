@@ -1,5 +1,6 @@
 // import "../dist/index.html";
 import 'bulma';
+// import custom styles and overrides
 import './style.sass';
 // Immediately invoked function expression isolates code from global scope
 (function(document, window) {
